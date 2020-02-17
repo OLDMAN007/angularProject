@@ -1,0 +1,21 @@
+.main{
+    width: 330px;
+    height: 350px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.right{
+    text-align: right;
+}
+body{
+    // background:url("assets/image/loginBG.jpeg")  no-repeat center center;
+    background:"assets/images/loginBG.jpeg" no-repeat center center;
+    background-size:cover;
+    background-attachment:fixed;
+    background-color:#CCCCCC;
+}
+span{
+    color: red;
+}
