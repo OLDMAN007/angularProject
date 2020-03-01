@@ -17,6 +17,7 @@ export class LoginComponent implements OnInit {
 
   doLogin(){
     alert(this.username + this.password);
+    
   }
 
 }
